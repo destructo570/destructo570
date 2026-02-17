@@ -22,7 +22,7 @@
 - 🍥 **[Moe-kana](https://moekana.destructo.dev/)** - Open-source web app for helping people learn and practice hiragana and katakana.
 
 ## Old Projects
-- 📑 **[Kanban board](https://github.com/destructo570/kanban-board-mern-stack)** - Kanban board web app made in MERN stack. Manage all your projects and tasks at one place.
+- 📑 **[Kanban board](https://github.com/destructo570/kanban-board-mern-stack)** - Kanban board web app made in MERN stack.
 - 🍣 **[Sushi](https://github.com/destructo570/Sushi-Unofficial-MAL-Client)** - A clean & modern android client for MyAnimeList.
 - 💰 **[Deplace Maison](https://github.com/destructo570/deplace-maison-ecommerce-webapp)** - A fullstack recreation of deplace maison ecoomerce website
 - 👽 **[Mars](https://github.com/destructo570/mars-app)** - Browse latest images taken by Mars rovers using NASA's API 
