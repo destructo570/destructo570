@@ -2,10 +2,14 @@
 
 ### Full Stack Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/destructo570&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/destructo570" /> </p>
-
-<p align="left"> <a href="https://www.x.com/heyvishal_" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.x.com/heyvishal_?logo=twitter&style=for-the-badge" alt="https://www.x.com/heyvishal_" /></a> </p>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=destructo570&label=Profile%20views&color=0e75b6&style=flat" alt="destructo570" />
+</p>
+<p align="left">
+  <a href="https://x.com/heyvishal_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/heyvishal_?logo=twitter&style=for-the-badge" alt="heyvishal_" />
+  </a>
+</p>
 - 📫 How to reach me **dev.vishalkashi@gmail.com**
 
 - 👨‍💻 All of my projects are available at **[https://www.destructo.dev](https://www.destructo.dev)**
