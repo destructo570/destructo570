@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishal Kashi
+# Hi 👋, I'm Vishal
 
 ### Full Stack Engineer
 
@@ -10,9 +10,10 @@
     <img src="https://img.shields.io/twitter/follow/heyvishal_?logo=twitter&style=for-the-badge" alt="heyvishal_" />
   </a>
 </p>
-- 📫 How to reach me **dev.vishalkashi@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://www.destructo.dev](https://www.destructo.dev)**
+- 📫 How to reach me: **[dev.vishalkashi@gmail.com](mailto:dev.vishalkashi@gmail.com)**
+
+- 👨‍💻 All of my projects are available at **[destructo.dev](https://www.destructo.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
