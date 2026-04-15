@@ -13,6 +13,7 @@
 
 ## Projects
 
+- 🌱 **[Pixiko](https://github.com/destructo570/pixiko-main)** - Create pixel art animation from images.
 - 🐱 **[Neko](https://github.com/destructo570/neko-serverless-blogging-website)** - Serverless blog platform made with next.js and hono
 - 🌌 **[Webgl](https://webgl.destructo.dev/)** - Mini webgl-experiments
 - ⛏️ **[Goson](https://github.com/destructo570/goson-json-parser)** - Json parser written in go lang
