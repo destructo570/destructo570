@@ -13,6 +13,7 @@
 
 ## Projects
 - 🎓 **[Nomi](https://github.com/destructo570/nomi-study-master/tree/main)** - Open source NotebookLM alternative.
+- 🌲 **[Mori](https://github.com/destructo570/mori)** - A tiny personal blog that lives in your GitHub repo.
 - 🌱 **[Pixiko](https://github.com/destructo570/pixiko-main)** - Create pixel art animation from images.
 - 🐱 **[Neko](https://github.com/destructo570/neko-serverless-blogging-website)** - Serverless blog platform made with next.js and hono
 - 🏗️ **[Kiban](https://github.com/destructo570/kiban-master)** - SaaS boilerplate.
